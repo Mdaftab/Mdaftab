@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 Highly adept and certified Information Technology professional with 14 years of experience, specializing in Site Reliability Engineering and DevOps for the past 5 years. Experienced in enhancing system reliability, improving operational efficiency, and achieving outstanding outcomes. Dedicated to staying current with industry advancements and utilizing DevOps tools and methodologies to facilitate smooth operations and foster organizational advancement.
 
@@ -66,7 +66,7 @@ Highly adept and certified Information Technology professional with 14 years of 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-## 🚀 Recent Projects
+## Recent Projects
 
 1. **Terraform-Enabled Transition from NewRelic to Datadog:** 
    Executed a centralized comprehensive monitoring system migration using Terraform, transitioning from NewRelic to Datadog.
@@ -86,7 +86,7 @@ Highly adept and certified Information Technology professional with 14 years of 
 - Optimize Costs for Google Kubernetes Engine (by Google)
 - AWS Certified Solutions Architect - Associate
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out for collaborations or just to say hi! I'm always open to discussing new projects and ideas.
 
