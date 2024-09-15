@@ -1,53 +1,83 @@
 # MD AFTAB
+### Senior Site Reliability Engineer | DevOps Specialist
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aftabmd">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/aftabmd" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/saifi_aftab">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo" />
+  <a href="https://x.com/saifi_aftab" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:alam156@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
 Highly adept and certified Information Technology professional with 14 years of experience, specializing in Site Reliability Engineering and DevOps for the past 5 years. Experienced in enhancing system reliability, improving operational efficiency, and achieving outstanding outcomes. Dedicated to staying current with industry advancements and utilizing DevOps tools and methodologies to facilitate smooth operations and foster organizational advancement.
 
-## Skills
+## 🛠️ Skills
 
 ### Cloud Platforms & Infrastructure
-<img src="https://skillicons.dev/icons?i=gcp" height="30" alt="Google Cloud Platform logo" /> <img src="https://skillicons.dev/icons?i=aws" height="30" alt="Amazon Web Services logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="30" alt="Helm logo" />
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 ### Monitoring & Observability
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="30" alt="Datadog logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/newrelic/newrelic-original.svg" height="30" alt="New Relic logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus logo" /> <img src="https://cdn.simpleicons.org/pagerduty/06AC38" height="30" alt="PagerDuty logo" />
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/-PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
 
 ### Version Control & CI/CD
-<img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" /> <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" /> <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="GitLab logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="CircleCI logo" />
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 
 ### Security & Configuration Management
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="30" alt="HashiCorp Vault logo" /> <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="Google KMS logo" /> <img src="https://cdn.simpleicons.org/mozilla/000000" height="30" alt="Mozilla SOPS logo" />
+![Vault](https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![Google KMS](https://img.shields.io/badge/-Google%20KMS-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![SOPS](https://img.shields.io/badge/-SOPS-4A154B?style=flat-square&logo=mozilla&logoColor=white)
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="Microsoft SQL Server logo" />
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### Programming & Scripting
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash logo" />
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Web Servers & Application Servers
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="Apache Tomcat logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="NGINX logo" /> <img src="https://cdn.simpleicons.org/microsoftiis/5E5E5E" height="30" alt="Microsoft IIS logo" />
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![IIS](https://img.shields.io/badge/-IIS-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 
 ### Operating Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows logo" />
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-## Recent Projects
+## 🚀 Recent Projects
 
-1. **Terraform-Enabled Transition from NewRelic to Datadog:** Executed a centralized comprehensive monitoring system migration using Terraform, transitioning from NewRelic to Datadog.
+1. **Terraform-Enabled Transition from NewRelic to Datadog:** 
+   Executed a centralized comprehensive monitoring system migration using Terraform, transitioning from NewRelic to Datadog.
 
-2. **Kubernetes Workload Resource Optimization:** Enhanced system performance and cost-effectiveness by optimizing Kubernetes workload resources.
+2. **Kubernetes Workload Resource Optimization:** 
+   Enhanced system performance and cost-effectiveness by optimizing Kubernetes workload resources.
 
-3. **PagerDuty-Driven ON-CALL Process Execution:** Streamlined incident management and improved system reliability by configuring and executing an ON-CALL process via PagerDuty & Datadog.
+3. **PagerDuty-Driven ON-CALL Process Execution:** 
+   Streamlined incident management and improved system reliability by configuring and executing an ON-CALL process via PagerDuty & Datadog.
 
-## Certifications
+## 🏆 Certifications
 
 - GitLab 101
 - Red Hat Certified Engineer
@@ -56,6 +86,9 @@ Highly adept and certified Information Technology professional with 14 years of 
 - Optimize Costs for Google Kubernetes Engine (by Google)
 - AWS Certified Solutions Architect - Associate
 
-## Contact
+## 📫 Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aftabmd) or [Twitter](https://x.com/saifi_aftab), !
+Feel free to reach out for collaborations or just to say hi! I'm always open to discussing new projects and ideas.
+
+- LinkedIn: [aftabmd](https://www.linkedin.com/in/aftabmd)
+- Twitter: [@saifi_aftab](https://x.com/saifi_aftab)
