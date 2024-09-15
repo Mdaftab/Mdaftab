@@ -11,8 +11,6 @@
 
 ## About Me
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQGGb72kBzllsA/profile-displayphoto-shrink_200_200/0/1707477829612?e=1714608000&v=beta&t=xzmngVo_g1ZxHRL1a4B0Up8BIBiYMGY2URaXqLF1_Is" />
-
 Highly adept and certified Information Technology professional with 14 years of experience, specializing in Site Reliability Engineering and DevOps for the past 5 years. Experienced in enhancing system reliability, improving operational efficiency, and achieving outstanding outcomes. Dedicated to staying current with industry advancements and utilizing DevOps tools and methodologies to facilitate smooth operations and foster organizational advancement.
 
 ## Skills
@@ -60,4 +58,4 @@ Highly adept and certified Information Technology professional with 14 years of 
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aftabmd) or [Twitter](https://x.com/saifi_aftab), or via email at [alam156@gmail.com](mailto:alam156@gmail.com) for collaborations or just to say hi!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aftabmd) or [Twitter](https://x.com/saifi_aftab), !
