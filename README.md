@@ -121,6 +121,7 @@ Senior Site Reliability Engineer with 14+ years of technology expertise, includi
 - GitLab 101
 - Red Hat Certified Engineer
 - Red Hat Certified System Administrator
+- Certified Kubernetes Administrator (CKA)
 - Implement DevOps in Google Cloud (by Google)
 - Optimize Costs for Google Kubernetes Engine (by Google)
 - AWS Certified Solutions Architect - Associate
