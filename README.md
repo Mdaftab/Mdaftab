@@ -142,6 +142,6 @@ I'm passionate about building reliable, scalable systems and sharing knowledge w
 - 📢 Speaking engagements
 - 🎓 Mentoring
 
-**LinkedIn:** [aftabmd](https://www.linkedin.com/in/aftabmd)  
+**LinkedIn:** [Md Aftab ](https://www.linkedin.com/in/aftab-sre/)  
 **Twitter:** [@saifi_aftab](https://x.com/saifi_aftab)  
 **Email:** [alam156@gmail.com](mailto:alam156@gmail.com)
