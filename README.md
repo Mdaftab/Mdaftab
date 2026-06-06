@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1b3d72,100:0a1628&height=200&section=header&text=MD%20AFTAB&fontSize=72&fontAlignY=38&desc=Senior%20DevOps%20%2F%20Platform%20Engineer%20%7C%20SRE%20Specialist&descAlignY=62&fontColor=f0f6fc&descFontColor=a8c6f0&descFontSize=18" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=3000&color=388BFD&center=true&vCenter=true&width=640&height=80&lines=MD+AFTAB)](https://github.com/Mdaftab)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=388BFD&center=true&vCenter=true&width=640&height=40&lines=Senior+DevOps+%26+Platform+Engineer;Multi-Cloud+Architect+%7C+GCP+%E2%80%A2+AWS;Kubernetes+%7C+Terraform+%7C+CI%2FCD+at+Scale;14%2B+Years+of+Production+Infrastructure;Turning+incidents+into+SLO+wins)](https://github.com/Mdaftab)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=700&height=40&lines=Senior+DevOps+%2F+Platform+Engineer+%7C+SRE+Specialist;Multi-Cloud+Architect+%7C+GCP+%E2%80%A2+AWS;Kubernetes+%7C+Terraform+%7C+CI%2FCD+at+Scale;14%2B+Years+of+Production+Infrastructure)](https://github.com/Mdaftab)
 
 <br/>
 
@@ -248,8 +246,3 @@ Passionate about building reliable systems and sharing knowledge. Open to **DevO
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
-</div>
