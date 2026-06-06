@@ -1,147 +1,248 @@
-# MD AFTAB
-### Senior Site Reliability Engineer | DevOps Specialist |
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/aftab-sre/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/saifi_aftab" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:alam156@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,70:1565c0,100:0d1117&height=230&section=header&text=MD%20AFTAB&fontSize=76&fontAlignY=38&desc=Senior%20Site%20Reliability%20Engineer%20%7C%20DevOps%20Specialist&descAlignY=60&animation=fadeIn&fontColor=ffffff&descFontColor=90caf9&descFontSize=20" width="100%" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=600&height=40&lines=☁️+Multi-Cloud+Architect+%7C+GCP+•+AWS;⚙️+Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Helm;📊+99.99%25+Uptime+%7C+1%2C000%2B+Deployments%2FMonth;🚀+60%25+MTTR+Reduction+Through+Automation;💡+14%2B+Years+Building+Reliable+Systems)](https://github.com/Mdaftab)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftab-sre/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saifi_aftab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alam156@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mdaftab&style=for-the-badge&color=1565C0&label=PROFILE+VIEWS)](https://github.com/Mdaftab)
+
 </div>
 
-## 🚀 Professional Summary
+---
 
-Senior Site Reliability Engineer with 14+ years of technology expertise, including 5 years specialized in SRE and DevOps. Known for:
+## 👨‍💻 About Me
 
-- 📈 Achieving 99.99% uptime for mission-critical production systems
-- 🔄 Leading DevOps transformation initiatives across multiple teams
-- 💰 Optimizing cloud infrastructure costs by 30%+ through efficient resource management
-- 🛠️ Implementing robust CI/CD pipelines handling 1000+ deployments monthly
-- 🎯 Reducing MTTR (Mean Time to Recovery) by 60% through automated incident response
+Senior Site Reliability Engineer with **14+ years** of technology expertise, including **5+ years** specialized in SRE and DevOps. I architect reliable, scalable systems and drive engineering excellence across organizations.
 
-## 🌟 Core Competencies
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🎯 What I Do</h4>
+      <ul>
+        <li>🔧 Architecture design & infrastructure optimization</li>
+        <li>🚀 DevOps transformation leadership</li>
+        <li>📊 SLO/SLI definition & error budget management</li>
+        <li>🛡️ Security & compliance in CI/CD pipelines</li>
+        <li>🏗️ Platform engineering & scalability planning</li>
+        <li>👥 Mentoring SRE teams & knowledge sharing</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>📈 Impact by Numbers</h4>
+      <table>
+        <tr><td>System Uptime</td><td align="right"><strong>99.99%</strong></td></tr>
+        <tr><td>MTTR Improvement</td><td align="right"><strong>↓ 60%</strong></td></tr>
+        <tr><td>Cloud Cost Reduction</td><td align="right"><strong>↓ 30%+</strong></td></tr>
+        <tr><td>Monthly Deployments</td><td align="right"><strong>1,000+</strong></td></tr>
+        <tr><td>False Positive Reduction</td><td align="right"><strong>↓ 75%</strong></td></tr>
+        <tr><td>Engineering Hours Saved</td><td align="right"><strong>200+/mo</strong></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-- **Platform Engineering:** Architecture design, scalability planning, and infrastructure optimization
-- **Reliability Engineering:** SLO/SLI definition, error budgets, and reliability improvement
-- **Incident Management:** On-call leadership, post-mortem facilitation, and systematic problem-solving
-- **Team Leadership:** Mentoring, technical guidance, and cross-functional collaboration
+---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Cloud Platforms & Infrastructure
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+<div align="center">
 
-### Monitoring & Observability
-![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/-PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+**Cloud & Infrastructure**
 
-### Version Control & CI/CD
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,ansible&perline=6" alt="Cloud & Infrastructure" />
 
-### Security & Configuration Management
-![Vault](https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white)
-![Google KMS](https://img.shields.io/badge/-Google%20KMS-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![SOPS](https://img.shields.io/badge/-SOPS-4A154B?style=flat-square&logo=mozilla&logoColor=white)
+&nbsp;
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+**Monitoring & Observability**
 
-### Programming & Scripting
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=6" alt="Monitoring" />
 
-### Web Servers & Application Servers
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![IIS](https://img.shields.io/badge/-IIS-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+&nbsp;
+
+**CI/CD & Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,circleci&perline=6" alt="CI/CD" />
+
+&nbsp;
+
+**Languages & Databases**
+
+<img src="https://skillicons.dev/icons?i=python,bash,mysql,mongodb&perline=6" alt="Languages & Databases" />
+
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+&nbsp;
+
+**Web Servers & Operating Systems**
+
+<img src="https://skillicons.dev/icons?i=nginx,apache,linux&perline=6" alt="Web Servers & OS" />
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+
+&nbsp;
+
+**Security & Secrets Management**
+
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![Google KMS](https://img.shields.io/badge/Google_KMS-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![SOPS](https://img.shields.io/badge/Mozilla_SOPS-4A154B?style=flat-square&logo=mozilla&logoColor=white)
+
+</div>
+
+---
 
 ## 💼 Professional Impact
 
-### Infrastructure & Platform Engineering
-- Architected and implemented a multi-region Kubernetes platform supporting 100+ microservices
-- Designed and executed cloud migration strategies resulting in 40% improved performance
-- Established infrastructure-as-code practices reducing provisioning time from days to hours
+<details>
+<summary>🏗️ &nbsp;<strong>Infrastructure & Platform Engineering</strong></summary>
+<br/>
 
-### Observability & Monitoring
-- Implemented comprehensive observability solutions using Datadog and Prometheus
-- Created custom dashboards and alerts reducing false positives by 75%
+- Architected and implemented a **multi-region Kubernetes platform** supporting **100+ microservices**
+- Designed and executed cloud migration strategies resulting in **40% improved performance**
+- Established infrastructure-as-code practices reducing provisioning time **from days to hours**
+
+</details>
+
+<details>
+<summary>📡 &nbsp;<strong>Observability & Monitoring</strong></summary>
+<br/>
+
+- Implemented comprehensive observability solutions using **Datadog** and **Prometheus**
+- Created custom dashboards and alerts reducing **false positives by 75%**
 - Developed automated remediation workflows for common failure scenarios
 
-### Process Automation & Tooling
-- Built custom automation tools saving 200+ engineering hours monthly
-- Standardized deployment processes across 20+ development teams
+</details>
+
+<details>
+<summary>⚡ &nbsp;<strong>Process Automation & Tooling</strong></summary>
+<br/>
+
+- Built custom automation tools saving **200+ engineering hours monthly**
+- Standardized deployment processes across **20+ development teams**
 - Implemented security scanning and compliance checks in CI/CD pipelines
 
-## 🎯 Recent Projects
+</details>
 
-1. **Enterprise Monitoring Migration (NewRelic to Datadog)**
-   - Led end-to-end migration of 300+ services to Datadog
-   - Implemented Terraform-based monitoring-as-code
-   - Achieved 100% monitoring coverage with zero downtime
-   - Reduced monitoring costs by 25%
+---
 
-2. **Kubernetes Resource Optimization**
-   - Analyzed and optimized resource utilization across clusters
-   - Implemented horizontal pod autoscaling for 50+ services
-   - Reduced cloud costs by 35% while improving performance
-   - Created custom monitoring for resource usage patterns
+## 🚀 Recent Projects
 
-3. **Incident Management Modernization**
-   - Redesigned on-call processes using PagerDuty and Datadog
-   - Implemented automated incident routing and escalation
-   - Reduced average incident response time by 65%
-   - Created comprehensive runbooks and documentation
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>🔄 Enterprise Monitoring Migration</h4>
+      <em>NewRelic → Datadog</em>
+      <br/><br/>
+      <ul>
+        <li>Migrated <strong>300+ services</strong> to Datadog</li>
+        <li>Terraform-based monitoring-as-code</li>
+        <li><strong>100% coverage</strong>, zero downtime</li>
+        <li>Reduced monitoring costs by <strong>25%</strong></li>
+      </ul>
+      <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h4>⚙️ Kubernetes Cost Optimization</h4>
+      <br/>
+      <ul>
+        <li>Optimized resource utilization across clusters</li>
+        <li>HPA implemented for <strong>50+ services</strong></li>
+        <li><strong>35% cloud cost reduction</strong></li>
+        <li>Custom resource usage monitoring</li>
+      </ul>
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h4>🚨 Incident Management Modernization</h4>
+      <br/>
+      <ul>
+        <li>Redesigned on-call with PagerDuty + Datadog</li>
+        <li>Automated incident routing & escalation</li>
+        <li><strong>65% faster</strong> incident response</li>
+        <li>Comprehensive runbooks & documentation</li>
+      </ul>
+      <img src="https://img.shields.io/badge/-PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🏆 Certifications
 
-- GitLab 101
-- Red Hat Certified Engineer
-- Red Hat Certified System Administrator
-- Certified Kubernetes Administrator (CKA)
-- Implement DevOps in Google Cloud (by Google)
-- Optimize Costs for Google Kubernetes Engine (by Google)
-- AWS Certified Solutions Architect - Associate
+<div align="center">
 
-## 📚 Technical Writing & Knowledge Sharing
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+[![RHCE](https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/en/services/certification/rhce)
+[![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_Sysadmin-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/en/services/certification/rhcsa)
+[![Google Cloud](https://img.shields.io/badge/Google-Implement_DevOps_in_GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Google GKE](https://img.shields.io/badge/Google-Optimize_Costs_for_GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-101_Certified-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 
-- Author of internal best practices guides for SRE and DevOps
-- Regular contributor to team technical blog
-- Mentor for junior SRE engineers
-- Speaker at internal tech talks and knowledge sharing sessions
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mdaftab&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=64b5f6&title_color=90caf9" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdaftab&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=90caf9" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdaftab&bg_color=0d1117&color=64b5f6&line=1565c0&point=90caf9&area=true&area_color=1565c0&hide_border=true" width="100%" alt="Contribution Activity" />
+
+</div>
+
+---
+
+## 📚 Knowledge Sharing
+
+- ✍️ Author of internal **SRE and DevOps best practices** guides
+- 📝 Regular contributor to **team technical blog**
+- 🎓 **Mentor** for junior SRE engineers
+- 🎤 **Speaker** at internal tech talks and knowledge sharing sessions
+
+---
 
 ## 📫 Let's Connect
 
-I'm passionate about building reliable, scalable systems and sharing knowledge with the community. Feel free to reach out for:
+<div align="center">
 
-- 💡 SRE and DevOps best practices
-- 🤝 Collaboration opportunities
-- 📢 Speaking engagements
-- 🎓 Mentoring
+Passionate about building reliable, scalable systems and sharing knowledge with the community.
 
-**LinkedIn:** [Md Aftab ](https://www.linkedin.com/in/aftab-sre/)  
-**Twitter:** [@saifi_aftab](https://x.com/saifi_aftab)  
-**Email:** [alam156@gmail.com](mailto:alam156@gmail.com)
+**Open to:** SRE/DevOps consulting · Collaboration · Speaking engagements · Mentoring
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftab-sre/)
+[![Twitter](https://img.shields.io/badge/Follow_@saifi__aftab-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saifi_aftab)
+[![Email](https://img.shields.io/badge/alam156@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alam156@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1565c0,70:0d2137,100:0d1117&height=120&section=footer" width="100%" />
+</div>
