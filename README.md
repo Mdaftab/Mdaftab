@@ -40,6 +40,68 @@ Senior DevOps & Platform Engineer with **14+ years** of technology expertise, in
 
 ---
 
+## Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.cncf.io/certification/cka/">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="CKA" />
+      </a><br/><br/>
+      <strong>CKA</strong><br/>
+      <sub>Certified Kubernetes Administrator</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
+        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS SAA" />
+      </a><br/><br/>
+      <strong>AWS SAA</strong><br/>
+      <sub>Solutions Architect Associate</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.redhat.com/en/services/certification/rhce">
+        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="RHCE" />
+      </a><br/><br/>
+      <strong>RHCE</strong><br/>
+      <sub>Red Hat Certified Engineer</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.redhat.com/en/services/certification/rhcsa">
+        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="RHCSA" />
+      </a><br/><br/>
+      <strong>RHCSA</strong><br/>
+      <sub>Red Hat Certified Sysadmin</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://cloud.google.com/learn/certification">
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="GCP DevOps" />
+      </a><br/><br/>
+      <strong>Google Cloud</strong><br/>
+      <sub>Implement DevOps in GCP</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://cloud.google.com/learn/certification">
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="GKE Cost" />
+      </a><br/><br/>
+      <strong>Google Cloud</strong><br/>
+      <sub>Optimize Costs for GKE</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://about.gitlab.com/learn/">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
+      </a><br/><br/>
+      <strong>GitLab 101</strong><br/>
+      <sub>Certified</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -141,71 +203,6 @@ Senior DevOps & Platform Engineer with **14+ years** of technology expertise, in
     </td>
   </tr>
 </table>
-
----
-
-## Certifications
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.cncf.io/certification/cka/">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="CKA" />
-      </a><br/><br/>
-      <strong>CKA</strong><br/>
-      <sub>Certified Kubernetes Administrator</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS SAA" />
-      </a><br/><br/>
-      <strong>AWS SAA</strong><br/>
-      <sub>Solutions Architect Associate</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.redhat.com/en/services/certification/rhce">
-        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="RHCE" />
-      </a><br/><br/>
-      <strong>RHCE</strong><br/>
-      <sub>Red Hat Certified Engineer</sub>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.redhat.com/en/services/certification/rhcsa">
-        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="RHCSA" />
-      </a><br/><br/>
-      <strong>RHCSA</strong><br/>
-      <sub>Red Hat Certified Sysadmin</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://cloud.google.com/learn/certification">
-        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="GCP DevOps" />
-      </a><br/><br/>
-      <strong>Google Cloud</strong><br/>
-      <sub>Implement DevOps in GCP</sub>
-    </td>
-    <td align="center">
-      <a href="https://cloud.google.com/learn/certification">
-        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="GKE Cost" />
-      </a><br/><br/>
-      <strong>Google Cloud</strong><br/>
-      <sub>Optimize Costs for GKE</sub>
-    </td>
-    <td align="center">
-      <a href="https://about.gitlab.com/learn/">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
-      </a><br/><br/>
-      <strong>GitLab 101</strong><br/>
-      <sub>Certified</sub>
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
