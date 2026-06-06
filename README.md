@@ -1,8 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=3000&color=388BFD&center=true&vCenter=true&width=640&height=80&lines=MD+AFTAB)](https://github.com/Mdaftab)
+# MD AFTAB
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=700&height=40&lines=Senior+DevOps+%2F+Platform+Engineer+%7C+SRE+Specialist;Multi-Cloud+Architect+%7C+GCP+%E2%80%A2+AWS;Kubernetes+%7C+Terraform+%7C+CI%2FCD+at+Scale;14%2B+Years+of+Production+Infrastructure)](https://github.com/Mdaftab)
+### Senior DevOps / Platform Engineer &nbsp;|&nbsp; SRE Specialist
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=388BFD&center=true&vCenter=true&width=580&height=38&lines=Multi-Cloud+Architect+%7C+GCP+%E2%80%A2+AWS;Kubernetes+%7C+Terraform+%7C+CI%2FCD+at+Scale;14%2B+Years+of+Production+Infrastructure;Turning+incidents+into+SLO+wins)](https://github.com/Mdaftab)
 
 <br/>
 
