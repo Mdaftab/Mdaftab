@@ -196,47 +196,58 @@ Senior Site Reliability Engineer with **14+ years** of technology expertise, inc
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="140">
       <a href="https://www.cncf.io/certification/cka/">
-        <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
+      </a><br/><br/>
+      <strong>CKA</strong><br/>
+      <sub>Certified Kubernetes Administrator</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="140">
       <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-        <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      </a><br/><br/>
+      <strong>AWS SAA</strong><br/>
+      <sub>Solutions Architect Associate</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="140">
       <a href="https://www.redhat.com/en/services/certification/rhce">
-        <img src="https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="Red Hat" />
+      </a><br/><br/>
+      <strong>RHCE</strong><br/>
+      <sub>Red Hat Certified Engineer</sub>
     </td>
-    <td align="center">
+    <td align="center" width="140">
       <a href="https://www.redhat.com/en/services/certification/rhcsa">
-        <img src="https://img.shields.io/badge/RHCSA-Red_Hat_Certified_Sysadmin-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="Red Hat" />
+      </a><br/><br/>
+      <strong>RHCSA</strong><br/>
+      <sub>Red Hat Certified Sysadmin</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://cloud.google.com/learn/certification">
-        <img src="https://img.shields.io/badge/Google_Cloud-Implement_DevOps_in_GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Google Cloud" />
+      </a><br/><br/>
+      <strong>Google Cloud</strong><br/>
+      <sub>Implement DevOps in GCP</sub>
     </td>
     <td align="center">
       <a href="https://cloud.google.com/learn/certification">
-        <img src="https://img.shields.io/badge/Google_Cloud-Optimize_Costs_for_GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Google Cloud" />
+      </a><br/><br/>
+      <strong>Google Cloud</strong><br/>
+      <sub>Optimize Costs for GKE</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://about.gitlab.com/learn/">
-        <img src="https://img.shields.io/badge/GitLab-101_Certified-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
+      </a><br/><br/>
+      <strong>GitLab 101</strong><br/>
+      <sub>Certified</sub>
     </td>
+    <td align="center"></td>
   </tr>
 </table>
 
