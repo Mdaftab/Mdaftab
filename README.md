@@ -72,7 +72,7 @@ Senior DevOps & Platform Engineer with **14+ years** of technology expertise, in
         <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="RHCSA" />
       </a><br/><br/>
       <strong>RHCSA</strong><br/>
-      <sub>Red Hat Certified Sysadmin</sub>
+      <sub>Red Hat Certified System Administrator</sub>
     </td>
   </tr>
   <tr>
@@ -126,6 +126,13 @@ Senior DevOps & Platform Engineer with **14+ years** of technology expertise, in
       </a><br/><br/>
       <strong>LFS148</strong><br/>
       <sub>OpenTelemetry</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/learning/">
+        <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Cloud Strategy" />
+      </a><br/><br/>
+      <strong>Cloud Strategy</strong><br/>
+      <sub>Determining Your Cloud Strategy</sub>
     </td>
     <td align="center" width="140">
       <a href="https://about.gitlab.com/learn/">
