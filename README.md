@@ -74,6 +74,8 @@ Senior DevOps & Platform Engineer with **14+ years** of technology expertise, in
       <strong>RHCSA</strong><br/>
       <sub>Red Hat Certified Sysadmin</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="140">
       <a href="https://cloud.google.com/learn/certification">
         <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="GCP DevOps" />
@@ -89,11 +91,78 @@ Senior DevOps & Platform Engineer with **14+ years** of technology expertise, in
       <sub>Optimize Costs for GKE</sub>
     </td>
     <td align="center" width="140">
+      <a href="https://azure.microsoft.com/en-us/resources/training-and-certifications/">
+        <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Azure Fundamentals" />
+      </a><br/><br/>
+      <strong>Azure Cloud</strong><br/>
+      <sub>Cloud Fundamentals</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://azure.microsoft.com/en-us/resources/training-and-certifications/">
+        <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Azure DevOps" />
+      </a><br/><br/>
+      <strong>Azure DevOps</strong><br/>
+      <sub>DevOps for Beginners</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://platformengineering.org/">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Platform Engineering" />
+      </a><br/><br/>
+      <strong>Platform Eng.</strong><br/>
+      <sub>Intro to Platform Engineering</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/">
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="GitOps" />
+      </a><br/><br/>
+      <strong>LFS169</strong><br/>
+      <sub>Introduction to GitOps</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://training.linuxfoundation.org/training/getting-started-with-opentelemetry/">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" alt="OpenTelemetry" />
+      </a><br/><br/>
+      <strong>LFS148</strong><br/>
+      <sub>OpenTelemetry</sub>
+    </td>
+    <td align="center" width="140">
       <a href="https://about.gitlab.com/learn/">
         <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
       </a><br/><br/>
       <strong>GitLab 101</strong><br/>
       <sub>Certified</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://cloud.google.com/training/machinelearning-ai">
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Gen AI" />
+      </a><br/><br/>
+      <strong>Google AI</strong><br/>
+      <sub>Introduction to Generative AI</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://cloud.google.com/training/machinelearning-ai">
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="LLMs" />
+      </a><br/><br/>
+      <strong>Google AI</strong><br/>
+      <sub>Introduction to LLMs</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://cloud.google.com/training/machinelearning-ai">
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="BERT" />
+      </a><br/><br/>
+      <strong>Google AI</strong><br/>
+      <sub>Transformer Models &amp; BERT</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://cloud.google.com/training/machinelearning-ai">
+        <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Image Gen" />
+      </a><br/><br/>
+      <strong>Google AI</strong><br/>
+      <sub>Introduction to Image Generation</sub>
     </td>
   </tr>
 </table>
